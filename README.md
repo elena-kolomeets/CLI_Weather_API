@@ -1,4 +1,4 @@
-## CLI_Weather_API
+## CLI Weather API
 Python CLI made with Click using the OpenWeatherMap API
 showing the current weather in a given location
 
@@ -7,7 +7,7 @@ or without parameters to see the help message.
 
 1. Create a free account at https://openweathermap.org/appid
 2. Configure your API key with 'config' command
-3. Check current weather with 'current' command providing city name (inside "" if the name consists of multiple words, like "Rio de Janeiro")
+3. Check current weather with 'current' command providing the city name (inside "" if the name consists of multiple words, like "Rio de Janeiro")
 
 Options:
 ```
