@@ -96,8 +96,8 @@ def config(ctx):
 # alternative to configuration file would be envvar parameter:
     # envvar="API_KEY"  # -  not to type api key each time you can
     # make it a temporary environment variable by running:
-    # on Windows: >set API_KEY=641b4cf91d5af69830e3b37b333326d4
-    # on Linux: $export API_KEY="641b4cf91d5af69830e3b37b333326d4"
+    # on Windows: >set API_KEY=<api-key>
+    # on Linux: $export API_KEY="<api-key>"
     # before calling the cli
 
 
