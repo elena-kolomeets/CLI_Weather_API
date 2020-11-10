@@ -53,7 +53,7 @@ def current_weather(location, api_key=SAMPLE_API_KEY):
 def main(ctx, api_key, config_file):
     """
     A little weather tool that shows you the current weather in a LOCATION of
-    your choice. Provide the city name or a two-digit country code
+    your choice. Provide the city name (London or "Rio de Janeiro")
     as well as a valid API key from OpenWeatherMap for the tool to work. You can
     sign up for a free account at https://openweathermap.org/appid.
     """
